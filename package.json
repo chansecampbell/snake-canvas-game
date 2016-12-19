@@ -1,0 +1,25 @@
+{
+  "name": "snake-canvas-game",
+  "version": "1.0.0",
+  "description": "A simple example of the retro game Snake using the ES6 class syntax",
+  "main": "app.js",
+  "devDependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "webpack": "^1.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chansecampbell/snake-canvas-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chansecampbell/snake-canvas-game/issues"
+  },
+  "homepage": "https://github.com/chansecampbell/snake-canvas-game#readme"
+}
